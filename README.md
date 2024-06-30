@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Kalyan Pothineni
+![Ninja14r- Kai](https://github.com/KalyanKPothineni/KalyanKPothineni/assets/174274413/158cb49b-608a-4e40-9be9-54f4a4665cbf)
+
+
+**👋 Hi, I’m Kalyan Pothineni**
 - 🌱 I’m currently Mastering Data Science
 - 📫 You can reach me at iamkalyankish@gmail.com
 
