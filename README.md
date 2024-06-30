@@ -23,5 +23,8 @@ Major Accomplishments:
 Let's innovate together!
 
 # Featured Project:
-## CO2-Emissions-By-Sector-Analysis
-https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis
+## CO2 Emissions by Sector Analysis
+_https://github.com/KalyanKPothineni/CO2-Emissions-By-Sector-Analysis_
+
+## World Population Trend Analysis
+_https://github.com/KalyanKPothineni/World-Population-Trends_
