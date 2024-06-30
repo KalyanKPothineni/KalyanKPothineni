@@ -6,6 +6,7 @@
 - 🌱 Mastering Data Science
 - 🐶 Dog Parent
 - 🚗 Race track is my zen
+- 🎥 Movie Lover
   
 Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling.
 
