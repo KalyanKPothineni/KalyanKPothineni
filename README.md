@@ -7,8 +7,11 @@ Experienced Data Architect specializing in Data Engineering, Data Science, Analy
 Certifications:
 - 4X Snowflake certified
 - 6X Microsoft Fabric certified
-- AWS certified
+- AWS Certified
 - Scrum Master certified
-Completing a Master's in Data Science in August 2024 and holding a Master's in Mechanical Engineering.
+I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering.
+
+Major Accomplishments:
+- Circle of Excellence Award- 2022 (WM)
 
 Let's innovate together!
