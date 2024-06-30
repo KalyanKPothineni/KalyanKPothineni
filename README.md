@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KalyanKPothineni
+- 👋 Hi, I’m Kalyan Pothineni
 - 🌱 I’m currently Mastering Data Science
 - 📫 You can reach me at iamkalyankish@gmail.com
 
