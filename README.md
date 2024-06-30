@@ -1,10 +1,12 @@
+![welcome](https://github.com/KalyanKPothineni/KalyanKPothineni/assets/174274413/82186a4e-8528-41af-ae8d-793b77713ab5)
 
-![Ninja14r- Kai](https://github.com/KalyanKPothineni/KalyanKPothineni/assets/174274413/158cb49b-608a-4e40-9be9-54f4a4665cbf)
+# 👋 Hi, I’m Kalyan Pothineni  
 
-# 👋 Hi, I’m Kalyan Pothineni
-- 🌱 Currently Mastering Data Science
-- 📫 You can reach me at iamkalyankish@gmail.com
-
+- ☕ I'm coffeer.
+- 🌱 Mastering Data Science
+- 🐶 Dog Parent
+- 🚗 Race track is my zen
+  
 Experienced Data Architect specializing in Data Engineering, Data Science, Analytics, and Analysis, with a proven track record in Financial, Retail, Healthcare, and Logistics domains. Proficient in Snowflake, AWS, DBT, Microsoft Fabric, Performance Tuning, Cloud Concepts, Data Warehouse Architecture, Oracle, GIT, SLDC, Visualization and Modeling.
 
 Certifications:
