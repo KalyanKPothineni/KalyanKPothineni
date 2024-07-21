@@ -14,7 +14,7 @@ Certifications:
 - 4X Snowflake Certified
 - 8X Microsoft Fabric Certified
 - Certified Data Analyst from eCornell
-- AWS Certified
+- AWS Solution Architect - Associates Certified
 - Scrum Master Certified
 - I will complete a Master's in Data Science in August 2024 and hold a Master's in Mechanical Engineering
 
